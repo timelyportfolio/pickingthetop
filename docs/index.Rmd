@@ -1,0 +1,24 @@
+---
+title: "Picking the Top - A Real-time Story"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<hr/>
+
+## Disclaimer
+
+This is not advice, and in no way should be considered advice.  In reality, "picking tops" is a horrible idea that leads to the ruin of anyone reckless or arrogant enough to attempt it.
+
+<hr/>
+
+## Introduction
+
+I am a money manager who has closely followed markets for over 20 years and diligently studied as much market history as I can.  Unfortunately, even with what seems to be an infinite amount of market history, we will never have enough.  We will always struggle with uncertainty and risk, and this challenge is what I find so compelling about markets.  What history we have suggests equity markets generally go up, and if we limit our history to the anomaly of the United States, equity market compounding almost seems a guarantee.  Making money from picking tops in US stocks seems like a foolish effort with a high probability of disastrous ruin.
+
+I have spent nearly the last five years in cash watching the US stock market persistently climb.  I have hit an all-time low as stocks post new highs, and I spent my days distracting myself with technology, programming, photography convinced that in aggregate very little real or compelling opportunity exists.  This is no way for a money manager to live, so I have even considered other careers.  Fortunately, my study of market history though is thorough enough to know that this condition is temporary, and I am emboldened by the most unlikely of opportunities--picking the top in US stocks.
+
+Biographies and autobiographies suffer from ex-post rationalization, so I will write this in real-time and my efforts will be actual trades with the little bit of money I have.
