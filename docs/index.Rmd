@@ -19,6 +19,40 @@ This is not advice, and in no way should be considered advice.  In reality, "pic
 
 I am a money manager who has closely followed markets for over 20 years and diligently studied as much market history as I can.  Unfortunately, even with what seems to be an infinite amount of market history, we will never have enough.  We will always struggle with uncertainty and risk, and this challenge is what I find so compelling about markets.  What history we have suggests equity markets generally go up, and if we limit our history to the anomaly of the United States, equity market compounding almost seems a guarantee.  Making money from picking tops in US stocks seems like a foolish effort with a high probability of disastrous ruin.
 
-I have spent nearly the last five years in cash watching the US stock market persistently climb.  I have hit an all-time low as stocks post new highs, and I spent my days distracting myself with data visualization, programming, and photography convinced that in aggregate very little real or compelling opportunity exists.  This is no way for a money manager to live, so I have even considered other careers.  Fortunately, my study of market history though is thorough enough to know that this condition is temporary, and I am emboldened by the most unlikely of opportunities--picking the top in US stocks.
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+library(quantmod)
+library(readxl)
+library(pipeR)
+
+# get risk-free return from AQR data
+#  thanks AQR
+tbill <- read_excel(
+  "../data/betting against beta equity factors daily.xlsx",
+  sheet = "RF",
+  skip=12
+) %>>%
+  {
+    xts(.[,2], order.by = .[,1])
+  } %>>%
+  zoo::na.trim()
+
+us_stocks <- read_excel(
+  "../data/betting against beta equity factors daily.xlsx",
+  sheet = "MKT",
+  skip=17
+) %>>%
+  {
+    xts(.[,25], order.by = .[,1])
+  } %>>%
+  zoo::na.trim()
+
+bills_stocks <- merge(tbill, us_stocks)
+bills_stocks$rm_rf <- bills_stocks$tbill + bills_stocks$us_stocks
+
+mkt_cumul <- cumprod(1+bills_stocks$rm_rf)
+chart_Series(mkt_cumul, name="US Stocks Since 1927")
+```
+
+I have spent nearly the last five years in cash watching the US stock market persistently climb.  I have hit an all-time low as stocks post new highs, and I spent my days distracting myself with data visualization, programming, and photography convinced that in aggregate very little real or compelling opportunity exists.  This is no way for a money manager to live, so I have even considered other careers.  Fortunately, my study of market history is thorough enough to know that this condition is temporary, and I am emboldened by the most unlikely of opportunities--picking the top in US stocks.
 
 Biographies and autobiographies suffer from ex-post rationalization, so I will write this in real-time and my efforts will be actual trades with the little bit of money I have.
