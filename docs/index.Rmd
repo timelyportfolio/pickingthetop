@@ -17,7 +17,7 @@ This is not advice, and in no way should be considered advice.  In reality, "pic
 
 ## Introduction
 
-I am a money manager who has closely followed markets for over 20 years and diligently studied as much market history as I can.  Unfortunately, even with what seems to be an infinite amount of market history, we will never have enough.  We will always struggle with uncertainty and risk, and this challenge is what I find so compelling about markets.  What history we have suggests equity markets generally go up, and if we limit our history to the anomaly of the United States, equity market compounding almost seems a guarantee.  Making money from picking tops in US stocks seems like a foolish effort with a high probability of disastrous ruin.
+I am a money manager who has closely followed markets for over 20 years and diligently studied as much market history as I can.  Unfortunately, even with what seems to be an infinite amount of market history, we will never have enough.  We will always struggle with uncertainty and risk, and this challenge is what I find so compelling about markets.  What history we have suggests equity markets generally go up, and if we limit our history to the anomaly of the United States, equity market compounding almost seems a guarantee.  We are taught that passive buying and holding of stocks offers the best route to building wealth.  We even learn that buying tops or breakouts in any market can often be a very successful strategy.  Fighting history and trying to make money from picking tops in US stocks seems like a foolish effort with a high probability of disastrous ruin.
 
 ```{r echo = FALSE, message = FALSE, warning = FALSE}
 library(quantmod)
