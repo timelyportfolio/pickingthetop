@@ -53,6 +53,13 @@ mkt_cumul <- cumprod(1+bills_stocks$rm_rf)
 chart_Series(mkt_cumul, name="US Stocks Since 1927")
 ```
 
-I have spent nearly the last five years in cash watching the US stock market persistently climb.  I have hit an all-time low as stocks post new highs, and I spent my days distracting myself with data visualization, programming, and photography convinced that in aggregate very little real or compelling opportunity exists.  This is no way for a money manager to live, so I have even considered other careers.  Fortunately, my study of market history is thorough enough to know that this condition is temporary, and I am emboldened by the most unlikely of opportunities--picking the top in US stocks.
+I have spent nearly the last five years in cash watching the US stock market persistently climb.  I have hit an all-time low as stocks post new highs, and I spend my days distracting myself with data visualization, programming, and photography convinced that in aggregate very little real or compelling opportunity exists.  This is no way for a money manager to live, so I have even considered other careers.  Fortunately, my study of market history is thorough enough to know that this condition is temporary, and I am emboldened by the most unlikely of opportunities--picking the top in US stocks.  The simple belief is that US stock prices have climbed to a level that makes future returns very unlikely.
 
 Biographies and autobiographies suffer from ex-post rationalization, so I will write this in real-time and my efforts will be actual trades with the little bit of money I have.
+
+
+## Even Dumber
+
+While I have the odds and market gods against me, I certainly should not push my luck.  Breaking down the US stock market by size suggests that small stocks do best, so it seems the least unlikely bet for a short strategy would be small-cap stocks.  However, as you might already have discovered, I am not quite following conventional market wisdom, and I believe the best opportunity for future downside is in this least likely of places.  While the chart below from [Research Affiliates, LLC](https://www.researchaffiliates.com/en_us/about-us.html) is certainly not the reason I hold this belief, I think it summarizes future prospects for US small stocks very well.
+
+![image of asset class returns from Research Affiliates](index_files/figure-markdown_github/research_affiliates_CORE_OVERVIEW_ScatterPlot.png)
