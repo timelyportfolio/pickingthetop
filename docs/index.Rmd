@@ -53,7 +53,7 @@ mkt_cumul <- cumprod(1+bills_stocks$rm_rf)
 chart_Series(mkt_cumul, name="US Stocks Since 1927")
 ```
 
-I have spent nearly the last five years in cash watching the US stock market persistently climb.  I have hit an all-time low as stocks post new highs, and I spend my days distracting myself with data visualization, programming, and photography convinced that in aggregate very little real or compelling opportunity exists.  This is no way for a money manager to live, so I have even considered other careers.  Fortunately, my study of market history is thorough enough to know that this condition is temporary, and I am emboldened by the most unlikely of opportunities--picking the top in US stocks.  The simple belief is that US stock prices have climbed to a level that makes future returns very unlikely.
+I have spent nearly the last five years in cash watching the US stock market persistently climb.  I have hit an all-time low as stocks post new highs, and I spend my days distracting myself with data visualization, programming, and photography convinced that in aggregate very little real or compelling opportunity exists.  This is no way for a money manager to live, so I have even considered other careers.  Fortunately, my study of market history is thorough enough to know that this condition is temporary, and I am emboldened by the most unlikely of opportunities--picking the top in US stocks.  The simple belief is that US stock prices have climbed to a level that makes future returns very unlikely.  Clearly, I am the dumb one at the market poker table.
 
 Biographies and autobiographies suffer from ex-post rationalization, so I will write this in real-time and my efforts will be actual trades with the little bit of money I have.
 
