@@ -86,3 +86,16 @@ While I have the odds and market gods against me, I certainly should not push my
 * direct shorts
 
 * options
+
+
+## Short and Long Term Potential
+
+Let's take a conservative look at potential rewards from a short position in IWM, the Russell 2000 ETF.  In the short-term, the area must vulnerable is the post-Trump rally.  I believe erasing this rally presents a chance for quick profits and assign a much higher chance that the next move will be down 15% than up 15%.
+
+![chart of IWM stock price since 2015](index_files/figure-markdown_github/iwm_short_term.png)
+
+I would not be spending so much time documenting this experience though if this was all that I expected to the downside.  Macro vulnerabilities make positive feedback in a negative context likely, and as the market moves down, these vulnerabilities could very easily transform into ugly realities.
+
+![chart of IWM stock price since 2007](index_files/figure-markdown_github/iwm_longerterm.png)
+
+Notice that I did not pick 2009 lows as the opportunity.  I don't view these lows as unrealistic, but I like to be conservative with my estimates, so I chose the top from Spring 2011.  If we look at other equity markets around the world, many have still not exceeded Spring 2011 levels.  Spring 2011 provides a very good marker where US stocks moved higher while most of the rest of the world moved sideways to lower.
