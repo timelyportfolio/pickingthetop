@@ -96,11 +96,12 @@ Let's take a conservative look at potential rewards from a short position in IWM
 
 ![chart of IWM stock price since 2015](index_files/figure-markdown_github/iwm_short_term.png)
 
+The chart above is daily.  A more granular look with an intraday chart more readily demonstrates the vulnerability.
+
 I would not be spending so much time documenting this experience though if this was all that I expected to the downside.  Macro vulnerabilities make positive feedback in a negative context likely, and as the market moves down, these vulnerabilities could very easily transform into ugly realities.
 
 ![chart of IWM stock price since 2007](index_files/figure-markdown_github/iwm_longerterm.png)
 
 Notice that I did not pick 2009 lows as the opportunity.  I don't view these lows as unrealistic, but I like to be conservative with my estimates, so I chose the top from Spring 2011.  If we look at other equity markets around the world, many have still not exceeded Spring 2011 levels.  Spring 2011 provides a very good marker where US stocks moved higher while most of the rest of the world moved sideways to lower.
 
-While the short-term move discussed earlier could very easily occur in one fell swoop, this longer-term move will be choppier and will require very careful trading to ease some of the pain of drawdown from quick, sudden bounces or relief rallies.
-
+While the short-term move discussed earlier could very easily occur in one fell swoop, this longer-term move will be choppier and will require very careful trading to ease some of the pain of drawdown from quick, sudden bounces or relief rallies.  Since I expect the short-term move to be much easier to exploit, I will concentrate most on 
