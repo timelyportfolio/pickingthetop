@@ -17,11 +17,35 @@ I am a money manager who has closely followed markets for over 20 years and dili
 
 I have spent nearly the last five years in cash watching the US stock market persistently climb. I have hit an all-time low as stocks post new highs, and I spend my days distracting myself with data visualization, programming, and photography convinced that in aggregate very little real or compelling opportunity exists. This is no way for a money manager to live, so I have even considered other careers. Fortunately, my study of market history is thorough enough to know that this condition is temporary, and I am emboldened by the most unlikely of opportunities--picking the top in US stocks. The simple belief is that US stock prices have climbed to a level that makes future returns very unlikely. Clearly, I am the dumb one at the market poker table.
 
-Biographies and autobiographies suffer from ex-post rationalization, so I will write this in real-time and my efforts will be actual trades with the little bit of money I have.
+Biographies and autobiographies suffer from ex-post rationalization, so I will write this in real-time and my efforts will be actual trades with the little bit of money I have. I will author in the open with a version control system called git, which will provide timestamps for each and every commit, so no ex-post silliness can be used to alter or adjust the outcome.
 
 Even Dumber
 -----------
 
-While I have the odds and market gods against me, I certainly should not push my luck. Breaking down the US stock market by size suggests that small stocks do best, so it seems the least unlikely bet for a short strategy would be small-cap stocks. However, as you might already have discovered, I am not quite following conventional market wisdom, and I believe the best opportunity for future downside is in this least likely of places. While the chart below from [Research Affiliates, LLC](https://www.researchaffiliates.com/en_us/about-us.html) is certainly not the reason I hold this belief, I think it summarizes future prospects for US small stocks very well.
+While I have the odds and market gods against me, I certainly should not push my luck. Breaking down the US stock market by size suggests that small stocks do best, so it seems the least unlikely bet for a short strategy would be small-cap stocks. However, as you might already have discovered, I am not quite following conventional market wisdom, and I believe the best opportunity for future downside is in this least likely of places. While the chart below from [Research Affiliates, LLC](https://www.researchaffiliates.com/en_us/about-us.html) is certainly not the only reason I hold this belief, I think it summarizes future prospects for US small stocks very well.
 
 ![image of asset class returns from Research Affiliates](index_files/figure-markdown_github/research_affiliates_CORE_OVERVIEW_ScatterPlot.png)
+
+Why You (nor I) Should Short?
+-----------------------------
+
+-   asymmetry - max down is 0 for individual stocks but with an index even less likely to go to 0. However, there is no limit to how high stocks and indexes can go. Risk is unlimited while return is capped.
+
+-   volatility increases and the ride roughens as your position starts working. Look at other seemingly easy shorts with perfect hindsight, and then consider the pleasantness of the experience. Demonstrate drawdowns in ideal short positions.
+
+-   down moves don't occur from the top. Most down periods are concentrated in sideways to already down-moving markets.
+
+-   betting against human innovation and improvement
+
+-   no fun celebrating while others in misery
+
+Methods of Pursuit
+------------------
+
+-   cash and wait
+
+-   inverse ETFs
+
+-   direct shorts
+
+-   options
