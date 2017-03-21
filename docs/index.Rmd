@@ -85,7 +85,9 @@ While I have the odds and market gods against me, I certainly should not push my
 
 * direct shorts
 
-* options
+* **options**
+    
+    I will choose these for the attractive asymmetry and non-recourse leverage.
 
 
 ## Short and Long Term Potential

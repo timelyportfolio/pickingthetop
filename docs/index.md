@@ -48,7 +48,9 @@ Methods of Pursuit
 
 -   direct shorts
 
--   options
+-   **options**
+
+    I will choose these for the attractive asymmetry and non-recourse leverage.
 
 Short and Long Term Potential
 -----------------------------
